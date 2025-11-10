@@ -1,4 +1,4 @@
-# 🌸 Latha R – Profile
+# 👁️ Latha R – Profile
 
 <h1 align="center">Hi there 👋 I'm Latha R</h1>
 <h3 align="center">LLM & AI Developer | LangChain • LangGraph • LoRA • TensorFlow • Scikit-learn • FastAPI</h3>
