@@ -100,12 +100,15 @@
 ---
 
 ## 💻 I Code In
-<img height="42" src="https://img.icons8.com/color/48/python.png"/> 
-<img height="42" src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/> 
-<img height="42" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/> 
-<img height="42" src="https://img.icons8.com/color/48/mysql-logo.png"/> 
-<img height="42" src="https://img.icons8.com/color/48/html-5.png"/> 
-<img height="42" src="https://img.icons8.com/color/48/react-native.png"/>  
+<img height="42" src="https://img.icons8.com/color/48/python.png" title="Python"/> 
+<img height="42" src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" title="FastAPI"/> 
+<img height="42" src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" title="Flask"/> 
+<img height="42" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" title="TensorFlow"/> 
+<img height="42" src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" title="Scikit-learn"/> 
+<img height="42" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" title="Streamlit"/> 
+<img height="42" src="https://img.icons8.com/color/48/amazon-web-services.png" title="AWS"/> 
+<img height="42" src="https://img.icons8.com/color/48/mysql-logo.png" title="MySQL"/> 
+
 
 ---
 
