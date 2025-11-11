@@ -1,7 +1,7 @@
 # 👁️ Latha R – Profile
 
 <h1 align="center">Hi there 👋 I'm Latha R</h1>
-<h3 align="center">LLM & AI Developer | LangChain • LangGraph • LoRA • TensorFlow • Scikit-learn • FastAPI</h3>
+<h3 align="center">LLM & AI Developer | LangChain • RAG • LoRA • TensorFlow • FINE TUNNING • FastAPI</h3>
 
 ---
 
@@ -11,7 +11,7 @@
 ### 👩‍💻 About Me
 - 🧠 **Python & AI Developer** with **3.3 years of experience** in building intelligent automation and hybrid AI systems  
 - 🏢 Currently working at **Texila American University (TEXILA EDUCARE HEALTHCARE AND TECHNOLOGY ENTERPRISES Pvt Ltd)**  
-- 🚀 Passionate about **LLMs**, **LangChain**, **LangGraph**, **LoRA fine-tuning** and **hybrid AI (Gen + Agent)**  
+- 🚀 Passionate about **LLMs**, **LangChain**, **RAG**, **LoRA fine-tuning** and **hybrid AI (Gen + Agent)**  
 - 👁️ Experienced in **Computer Vision**, **RAG pipelines**, and **AI-driven chat automation**  
 - ☁️ Skilled in **FastAPI**, **TensorFlow**, **Scikit-learn**, and **AWS**  
 - ⚙️ Loves building production-ready solutions that bridge AI and real-world processes  
