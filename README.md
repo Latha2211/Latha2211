@@ -49,7 +49,7 @@
 
 ---
 
-## 🧠 Project – Netrica.ai: AI-Powered CCTV Attendance System
+** 🧠 Project – Netrica.ai: AI-Powered CCTV Attendance System
 - Built a **CCTV-based attendance & surveillance system** using **YOLOv8, ArcFace, and MediaPipe**  
 - Implemented **face recognition, liveness detection**, and **pose estimation** for secure access tracking  
 - Developed a **Streamlit dashboard** for real-time logging and employee registration  
