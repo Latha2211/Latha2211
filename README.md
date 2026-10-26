@@ -1,7 +1,7 @@
 # 👁️ Latha R – Profile
 
 <h1 align="center">Hi there 👋 I'm Latha R</h1>
-<h3 align="center">LLM & AI Developer | LangChain • RAG • LoRA • TensorFlow • FINE TUNNING • FastAPI</h3>
+<h3 align="center">Senior AI Engineer </h3>
 
 ---
 
@@ -9,9 +9,8 @@
      src="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/21710fff-b970-4bb8-8eea-aea5455347a5/top-python-libraries-you-need-to-master-for-ai-in-2025.png?t=1740472650">
 
 ### 👩‍💻 About Me
-- 🧠 **Python & AI Developer** with **3.3 years of experience** in building intelligent automation and hybrid AI systems  
-- 🏢 Currently working at **Texila American University (TEXILA EDUCARE HEALTHCARE AND TECHNOLOGY ENTERPRISES Pvt Ltd)**  
-- 🚀 Passionate about **LLMs**, **LangChain**, **RAG**, **LoRA fine-tuning** and **hybrid AI (Gen + Agent)**  
+- 🧠 **Python & AI Developer** with **4 years of experience** in building intelligent automation and hybrid AI systems  
+- 🚀 Passionate about **AI Agents**,**LLMs**, **LangChain**, **RAG**, **LoRA fine-tuning** and **hybrid AI (Gen + Agent)**  
 - 👁️ Experienced in **Computer Vision**, **RAG pipelines**, and **AI-driven chat automation**  
 - ☁️ Skilled in **FastAPI**, **TensorFlow**, **Scikit-learn**, and **AWS**  
 - ⚙️ Loves building production-ready solutions that bridge AI and real-world processes  
@@ -152,7 +151,6 @@
 ---
 
 ## 🔗 Connect with Me
-- 🌐 **Portfolio:** [your-portfolio-link]  
 - 💼 **LinkedIn:** [https://www.linkedin.com/in/latha-r-786137240/]  
 - 📧 **Email:** latharaja4321@gmail.com  
 
